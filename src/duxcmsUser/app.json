@@ -1,0 +1,10 @@
+{
+  "name": "duxcmsUser",
+  "description": "CMS用户模块",
+  "version": "1.0.7",
+  "dependencies": [
+    "user",
+    "duxcms",
+    "wechat"
+  ]
+}
